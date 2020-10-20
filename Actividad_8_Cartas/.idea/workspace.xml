@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83bd6343-d216-4052-bdb2-6987497d64a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/poker/Cards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poker/Cards.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poker/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poker/Deck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poker/Gui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poker/Gui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividad 8 Computacion En Java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Actividad_8_Cartas/poker/Gui.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Actividad_8_Cartas/poker/Gui.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Actividad_9_cartas_2" />
   </component>
   <component name="RunManager" selected="Application.Gui">
     <configuration name="Gui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -110,33 +111,33 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1601943124409" />
-    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1601948070494">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1603153692249">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601948070494" />
-    <state width="1493" height="198" key="GridCell.Tab.0.bottom" timestamp="1602534818098">
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603153692249" />
+    <state width="1493" height="198" key="GridCell.Tab.0.bottom" timestamp="1602556379826">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602534818098" />
-    <state width="1493" height="198" key="GridCell.Tab.0.center" timestamp="1602534818098">
+    <state width="1493" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602556379826" />
+    <state width="1493" height="198" key="GridCell.Tab.0.center" timestamp="1602556379825">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602534818098" />
-    <state width="1493" height="198" key="GridCell.Tab.0.left" timestamp="1602534818098">
+    <state width="1493" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602556379825" />
+    <state width="1493" height="198" key="GridCell.Tab.0.left" timestamp="1602556379825">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602534818098" />
-    <state width="1493" height="198" key="GridCell.Tab.0.right" timestamp="1602534818098">
+    <state width="1493" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602556379825" />
+    <state width="1493" height="198" key="GridCell.Tab.0.right" timestamp="1602556379826">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602534818098" />
+    <state width="1493" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602556379826" />
     <state x="499" y="163" key="extract.method.dialog" timestamp="1601931517107">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="163" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1601931517107" />
-    <state x="209" y="33" key="new project wizard" timestamp="1601948085670">
+    <state x="209" y="33" key="new project wizard" timestamp="1602552070646">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1601948085670" />
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1602552070646" />
   </component>
 </project>
