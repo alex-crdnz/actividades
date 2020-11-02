@@ -11,7 +11,7 @@ public class Gui extends JFrame implements ActionListener {
     private TextArea result;
     //instancia a la clase Deck
     Deck deck = new Deck();
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception{
         //Se establece los valores predeterminador de la ventana
         Gui Frame = new Gui();
         Frame.setSize(500,350);
@@ -80,6 +80,14 @@ public class Gui extends JFrame implements ActionListener {
             Deck restablecer = new Deck();
             deck.baraja= restablecer.aux;
             result.setText("Quedan "+(deck.baraja.size())+" Cartas En Deck");
+        }
+        //Metodo de exepcion para cuando ya no ahi cartas en el deck
+        if (deck.baraja.size()==0) {
+            try {
+                JOptionPane.showMessageDialog(null, "Se han agotado las cartas");
+            } catch (Exception e) {
+                JOptionPane.showMessageDialog(null, "Opcion invalida");
+            }
         }
     }
 }
